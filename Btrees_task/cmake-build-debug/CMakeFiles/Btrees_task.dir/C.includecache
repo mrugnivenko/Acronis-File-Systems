@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+btree.h
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.h
+
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.h
+stdint.h
+-
+
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/main.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+btree.h
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.h
+

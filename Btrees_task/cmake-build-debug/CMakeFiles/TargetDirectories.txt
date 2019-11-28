@@ -1,0 +1,3 @@
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/CMakeFiles/Btrees_task.dir

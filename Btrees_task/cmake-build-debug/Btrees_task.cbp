@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Btrees_task"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Btrees_task">
+				<Option output="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Btrees_task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Btrees_task"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Btrees_task/fast">
+				<Option output="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Btrees_task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 Btrees_task/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.c">
+			<Option target="Btrees_task"/>
+		</Unit>
+		<Unit filename="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/btree.h">
+			<Option target="Btrees_task"/>
+		</Unit>
+		<Unit filename="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/main.c">
+			<Option target="Btrees_task"/>
+		</Unit>
+		<Unit filename="/Users/mr.ugnivenko/Documents/Acronis/File-system/Btrees_task/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
