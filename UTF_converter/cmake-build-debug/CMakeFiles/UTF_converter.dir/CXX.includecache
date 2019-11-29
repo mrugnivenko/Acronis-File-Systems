@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mr.ugnivenko/Documents/Acronis/UTF_converter/converter.cpp
+converter.hpp
+/Users/mr.ugnivenko/Documents/Acronis/UTF_converter/converter.hpp
+
+/Users/mr.ugnivenko/Documents/Acronis/UTF_converter/converter.hpp
+cstdint
+-
+bitset
+-
+iostream
+-
+vector
+-
+stdexcept
+-
+

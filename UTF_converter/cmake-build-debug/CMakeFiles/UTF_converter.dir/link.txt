@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/UTF_converter.dir/converter.cpp.o CMakeFiles/UTF_converter.dir/main.cpp.o  -o UTF_converter 
